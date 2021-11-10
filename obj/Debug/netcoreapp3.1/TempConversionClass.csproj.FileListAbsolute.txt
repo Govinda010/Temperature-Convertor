@@ -1,0 +1,9 @@
+E:\Projects\Class Library\ClassLibrary1\bin\Debug\netcoreapp3.1\TempConversionClass.deps.json
+E:\Projects\Class Library\ClassLibrary1\bin\Debug\netcoreapp3.1\TempConversionClass.dll
+E:\Projects\Class Library\ClassLibrary1\bin\Debug\netcoreapp3.1\TempConversionClass.pdb
+E:\Projects\Class Library\ClassLibrary1\obj\Debug\netcoreapp3.1\TempConversionClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Class Library\ClassLibrary1\obj\Debug\netcoreapp3.1\TempConversionClass.AssemblyInfoInputs.cache
+E:\Projects\Class Library\ClassLibrary1\obj\Debug\netcoreapp3.1\TempConversionClass.AssemblyInfo.cs
+E:\Projects\Class Library\ClassLibrary1\obj\Debug\netcoreapp3.1\TempConversionClass.csproj.CoreCompileInputs.cache
+E:\Projects\Class Library\ClassLibrary1\obj\Debug\netcoreapp3.1\TempConversionClass.dll
+E:\Projects\Class Library\ClassLibrary1\obj\Debug\netcoreapp3.1\TempConversionClass.pdb
